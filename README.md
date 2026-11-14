@@ -18,8 +18,8 @@ what I do. My goal is to land my first cybersecurity or tech job.
 - TryHackMe
 
 ## 📂 What's Here
-This GitHub holds my professional homelab work: write-ups of what I built,
-what broke, and how I fixed it, plus write-ups from real-world security
+This GitHub holds my professional home lab work: documentations of what I built,
+what broke, and how I fixed it, along with write-ups from real world security
 checkups I do for people.
 
 ## 📫 Reach Me
