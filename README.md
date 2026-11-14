@@ -1,7 +1,7 @@
 # Hi, I'm Colin Hartman 👋
 
 I work in logistics at Geisinger Community Medical Center and I'm studying
-cybersecurity at WGU. Outside of that, I build a home lab and write up
+cybersecurity at WGU. Outside of that, I built a home lab and document
 what I do. My goal is to land my first cybersecurity or tech job.
 
 ## 🔧 My Lab
